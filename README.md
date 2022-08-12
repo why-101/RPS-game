@@ -1,2 +1,2 @@
 # RPS-game
-rock paper s
+rock paper scissor
